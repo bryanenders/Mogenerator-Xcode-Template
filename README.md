@@ -20,5 +20,7 @@ How to use
 Build with the Mogenerator scheme any time you need to update the machine-readable class files.
 
 <p>&nbsp;</p>
-***
-<sup>***NOTE:** [Mogenerator](http://rentzsch.github.io/mogenerator/) must be installed in order for this template to create a useful target.*</sup>
+
+* * *
+
+<sup>**NOTE:** [Mogenerator](http://rentzsch.github.io/mogenerator/) must be installed in order for this template to create a useful target.</sup>
