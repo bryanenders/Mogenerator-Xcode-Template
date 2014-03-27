@@ -2,7 +2,7 @@ Mogenerator Xcode Template
 ==========================
 An Xcode project template for a Mogenerator target.
 
-![Mogenerator Xcode template icon](http://lanausee.com/images/mogen.png)
+<img src="http://lanausee.com/images/mogen_2x.png" alt="Mogenerator Xcode template icon" width="128" height="128">
 
 
 Installation
